@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://baiweiguo.github.io/2017/02/08/auto-bak-hexo-blog/</loc>
+    <lastmod>2018-12-14T12:30:59.056Z</lastmod>
+  </url>  <url>
     <loc>http://baiweiguo.github.io/2017/02/14/yr-rules-scan-proc/</loc>
     <lastmod>2018-12-14T12:22:59.214Z</lastmod>
   </url>  <url>
     <loc>http://baiweiguo.github.io/2017/08/14/template-method-li/</loc>
-    <lastmod>2018-12-14T12:22:59.214Z</lastmod>
-  </url>  <url>
-    <loc>http://baiweiguo.github.io/2017/08/14/strategy-li/</loc>
     <lastmod>2018-12-14T12:22:59.214Z</lastmod>
   </url>  <url>
     <loc>http://baiweiguo.github.io/2017/02/07/static-class-func-var/</loc>
@@ -16,11 +16,11 @@
     <loc>http://baiweiguo.github.io/2017/02/14/svm/</loc>
     <lastmod>2018-12-14T12:22:59.214Z</lastmod>
   </url>  <url>
+    <loc>http://baiweiguo.github.io/2017/08/14/strategy-li/</loc>
+    <lastmod>2018-12-14T12:22:59.214Z</lastmod>
+  </url>  <url>
     <loc>http://baiweiguo.github.io/2017/02/21/singleton/</loc>
     <lastmod>2018-12-14T12:22:59.213Z</lastmod>
-  </url>  <url>
-    <loc>http://baiweiguo.github.io/2017/08/14/observer-li/</loc>
-    <lastmod>2018-12-14T12:22:59.212Z</lastmod>
   </url>  <url>
     <loc>http://baiweiguo.github.io/2017/02/25/server-framework/</loc>
     <lastmod>2018-12-14T12:22:59.212Z</lastmod>
@@ -40,22 +40,22 @@
     <loc>http://baiweiguo.github.io/2017/02/21/macro/</loc>
     <lastmod>2018-12-14T12:22:59.212Z</lastmod>
   </url>  <url>
+    <loc>http://baiweiguo.github.io/2017/08/14/observer-li/</loc>
+    <lastmod>2018-12-14T12:22:59.212Z</lastmod>
+  </url>  <url>
     <loc>http://baiweiguo.github.io/2017/02/06/dns/</loc>
     <lastmod>2018-12-14T12:22:59.201Z</lastmod>
   </url>  <url>
     <loc>http://baiweiguo.github.io/2017/09/27/django-start/</loc>
     <lastmod>2018-12-14T12:22:59.201Z</lastmod>
   </url>  <url>
-    <loc>http://baiweiguo.github.io/2017/07/22/cpp-overload/</loc>
-    <lastmod>2018-12-14T12:22:59.200Z</lastmod>
-  </url>  <url>
     <loc>http://baiweiguo.github.io/2017/07/15/cpp-type/</loc>
     <lastmod>2018-12-14T12:22:59.200Z</lastmod>
   </url>  <url>
-    <loc>http://baiweiguo.github.io/2017/07/16/cpp-extension-1/</loc>
-    <lastmod>2018-12-14T12:22:59.199Z</lastmod>
+    <loc>http://baiweiguo.github.io/2017/07/22/cpp-overload/</loc>
+    <lastmod>2018-12-14T12:22:59.200Z</lastmod>
   </url>  <url>
-    <loc>http://baiweiguo.github.io/2017/02/08/auto-bak-hexo-blog/</loc>
+    <loc>http://baiweiguo.github.io/2017/07/16/cpp-extension-1/</loc>
     <lastmod>2018-12-14T12:22:59.199Z</lastmod>
   </url>
 </urlset>

@@ -95,7 +95,7 @@
 <meta property="og:site_name" content="winko&#39;s note">
 <meta property="og:description" content="本文记录了两部分：hexo博客系统发布新文章时，自动备份托管到github；根据github上托管的项目，能够将最新的数据恢复到本地。自动备份详细技术原理可参考文章。">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-12-14T12:22:59.199Z">
+<meta property="og:updated_time" content="2018-12-14T12:30:59.056Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo 博客源文件备份与恢复">
 <meta name="twitter:description" content="本文记录了两部分：hexo博客系统发布新文章时，自动备份托管到github；根据github上托管的项目，能够将最新的数据恢复到本地。自动备份详细技术原理可参考文章。">
@@ -410,7 +410,7 @@
 </li>
 </ul>
 <h3 id="恢复Hexo博客源文件"><a href="#恢复Hexo博客源文件" class="headerlink" title="恢复Hexo博客源文件"></a>恢复Hexo博客源文件</h3><p>　　切换电脑后，安装node，git环境，配置github sshkey。<br>　　创建空目录hexo为工作目录，clone github上的repo：<br><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span> git@github.com:xxx/hexo-next-blog.git</span><br></pre></td></tr></table></figure></p>
-<p>　　git clone成功后，安装hexo环境:<br><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo</span><br><span class="line">npm install</span><br><span class="line">npm install hexo-deployer-git</span><br><span class="line">npm install --save shelljs   <span class="comment"># 使用hexo d写文章时，自动备份时用</span></span><br></pre></td></tr></table></figure></p>
+<p>　　git clone成功后，安装hexo环境:<br><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo</span><br><span class="line">npm install -g hexo-cli</span><br><span class="line">npm install hexo-server --save    <span class="comment"># hexo s</span></span><br><span class="line">npm install                       <span class="comment"># 注意 hexo-next-blog/source/_posts目录下npm install，否则会出现404</span></span><br><span class="line">npm install hexo-deployer-git</span><br><span class="line">npm install --save shelljs   <span class="comment"># 使用hexo d写文章时，自动备份时用</span></span><br></pre></td></tr></table></figure></p>
 <p>另外，themes/next主题文件夹下的数据不会备份，若需备份，可删除该文件夹下的.git目录等信息再加入备份。</p>
 
       
