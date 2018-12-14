@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F12%2F14%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[python django 学习]]></title>
+    <url>%2F2017%2F09%2F27%2Fdjango-start%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[template method 模式]]></title>
+    <url>%2F2017%2F08%2F14%2Ftemplate-method-li%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>设计模式</category>
+      </categories>
+      <tags>
+        <tag>设计模式</tag>
+        <tag>李建中</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[strategy模式]]></title>
+    <url>%2F2017%2F08%2F14%2Fstrategy-li%2F</url>
+    <content type="text"><![CDATA[如果代码中存在变化可扩展的 if…else 逻辑的硬编码，当新增一种逻辑分支时，须修改源码适配，维护较为困难。此时可通过该策略模式来解决。 详细介绍，可参见。策略模式 注意：关键词 变化，可扩展（此处条件判断分支，随需求变化，需不断扩展条件分支情形；如果条件语句固定，如一周7天，此时无需使用该模式） 123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100101102103104105106107108109110/************************************************************************* &gt; File Name: main.cpp &gt; Author: ma6174 &gt; Mail: ma6174@163.com &gt; Created Time: Mon 14 Aug 2017 05:10:06 AM PDT ************************************************************************/#include "Strategy.h"#include "Context.h"#include "ConcreteStrategyA.h"#include "ConcreteStrategyB.h"#include&lt;iostream&gt;using namespace std;int main()&#123; ConcreteStrategyA *pCSA = new ConcreteStrategyA(); ConcreteStrategyB *pCSB = new ConcreteStrategyB(); Context *pContext = new Context(); pContext-&gt;SetStrategy(pCSA); pContext-&gt;Algorithm(); pContext-&gt;SetStrategy(pCSB); pContext-&gt;Algorithm(); delete pCSA; delete pCSB; delete pContext; return 0;&#125;/************************************************************************* &gt; File Name: Context.h &gt; Author: ma6174 &gt; Mail: ma6174@163.com &gt; Created Time: Mon 14 Aug 2017 05:06:44 AM PDT ************************************************************************/#ifndef __CONTEXT__H__#define __CONTEXT__H__#include "Strategy.h"#include&lt;iostream&gt;using namespace std;class Context&#123;public: void SetStrategy(Strategy* cStrategy) &#123; m_cStrategy = cStrategy; &#125; void Algorithm() &#123; m_cStrategy-&gt;Algorithm(); &#125;private: Strategy *m_cStrategy;&#125;;#endif/************************************************************************* &gt; File Name: Strategy.h &gt; Author: ma6174 &gt; Mail: ma6174@163.com &gt; Created Time: Mon 14 Aug 2017 05:02:15 AM PDT ************************************************************************/#ifndef __STRATEGY__H#define __STRATEGY__H#include&lt;iostream&gt;using namespace std;class Strategy&#123;public: virtual ~Strategy()&#123;&#125; virtual void Algorithm() = 0;&#125;;#endif/************************************************************************* &gt; File Name: ConcreteStrategyA.h &gt; Author: ma6174 &gt; Mail: ma6174@163.com &gt; Created Time: Mon 14 Aug 2017 05:03:31 AM PDT ************************************************************************/#ifndef __ConcreteStategy__H__#define __ConcreteStategy__H__#include "Strategy.h"#include&lt;iostream&gt;using namespace std;class ConcreteStrategyA:public Strategy&#123;public: virtual ~ConcreteStrategyA()&#123;&#125; virtual void Algorithm() &#123; cout&lt;&lt;"ConcreteStrategyA."&lt;&lt;endl; &#125;&#125;;#endif]]></content>
+      <categories>
+        <category>设计模式</category>
+      </categories>
+      <tags>
+        <tag>设计模式</tag>
+        <tag>李建中</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[观察者模式]]></title>
+    <url>%2F2017%2F08%2F14%2Fobserver-li%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>设计模式</category>
+      </categories>
+      <tags>
+        <tag>设计模式</tag>
+        <tag>李建中</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[锐化]]></title>
+    <url>%2F2017%2F08%2F04%2Fsharpen-litao%2F</url>
+    <content type="text"><![CDATA[PS三种锐化效果：常规锐化，精细化锐化，质感锐化。——- 李涛《数码摄影后期高手之路》 常规锐化（高反差保留）1.复制一个图层，使用高反差保留滤镜2.图像叠加 精细化锐化（推荐）1.锐化对象：LAB模式中的亮度通道，以减少彩色溢出情况。锐化是增加对比度，可能造成高光溢出2.使用2次USM锐化。一次半径大一些5，一次半径小一些1.2 质感锐化1.生成两个背景图层；2.其中一个使用表面模糊；3.另外一个使用应用图像，减去表面模糊图层，得到颗粒图像；4.叠加图像]]></content>
+      <categories>
+        <category>ps</category>
+      </categories>
+      <tags>
+        <tag>ps</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[C++函数重载]]></title>
+    <url>%2F2017%2F07%2F22%2Fcpp-overload%2F</url>
+    <content type="text"><![CDATA[C++函数重载的原理，是c++编译器在利用name mangling技术（倾轧），来修改函数名，区分参数不同名字相同的函数。重命名时使用 v-c-i-f-l-d表示void,char,int,float,long,double参数及其引用。 12345nm a.out |grep func00000000004006e0 T _Z4funci // 使用C++编译，函数没有用extern "C" 修饰，倾轧nm a.out |grep func00000000004006e0 T func // 使用C++编译，函数使用extern "C" 修饰，不倾轧 C++函数重载（静多态）函数名相同，函数参数列表不同：类型，个数，顺序。函数重载使用时，允许如下两种匹配原则： 严格参数类型匹配函数参数，使用强制类型转换 参数使用隐式类型转换需注意：double 可隐式转化为int float，可引起二义性，编译不通过。（或这int隐式转long double） 123456789101112131415#include&lt;iostream&gt;using namespace std;void func(int a)&#123; cout&lt;&lt;a&lt;&lt;endl;&#125;void func(float a)&#123; cout&lt;&lt;a&lt;&lt;endl;&#125;int main()&#123; func(4.5); // 4.5默认double类型，可使用 func(4.5f); return 0;&#125; 1234567891011// 编译出错：func.cpp: In function ‘int main()’:func.cpp:22: error: call of overloaded ‘func(double)’ is ambiguousfunc.cpp:11: note: candidates are: void func(int)func.cpp:16: note: void func(float)//使用 func(4.5f)时，则编译通过：nm a.out |grep func00000000004008d0 t _GLOBAL__I__Z4funci000000000040084d T _Z4funcf0000000000400824 T _Z4funci C++兼容C库C++使用extern “C”修饰函数, 可使函数不进行倾轧，用于兼任C库使用。注：如果声明和定义位于不相关文件中，则声明和定义处均须使用。123456789101112131415// main.cpp文件extern "C" void func(int a);int main()&#123; func(3.5); return 0;&#125;// func.cpp文件#include &lt;iostream&gt;using namespace std;extern "C" void func(int a)&#123; cout&lt;&lt;a&lt;&lt;endl;&#125; 12345//若 func.cpp文件中无 extern "C"修饰 func，则：/tmp/cc3LVVzf.o: In function `main':test.cpp:(.text+0xa): undefined reference to `func'collect2: ld returned 1 exit status//若 声明extern "C"位于单独的头文件，main.cpp, func.cpp都引用该头文件，func.cpp未使用 extern "C"，也可以编译通过。 —————本笔记来自于《带你实战C++》]]></content>
+      <categories>
+        <category>cpp</category>
+      </categories>
+      <tags>
+        <tag>cpp</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[C++对C的扩展]]></title>
+    <url>%2F2017%2F07%2F16%2Fcpp-extension-1%2F</url>
+    <content type="text"><![CDATA[C++在C的基础上进行了扩展，如扩展了bool类型，表达式可以被赋值等等 扩展了bool类型等C语言中表示真假用非0与0，而C++中扩展使用true与false，实际上的bool类型是一个枚举变量，如下：123456789101112131415161718#include &lt;iostream&gt;using namespace std;enum BOOL&#123; FALSE,TRUE&#125;;int main()&#123; bool b = false; BOOL bb = FALSE; cout&lt;&lt;"b:"&lt;&lt;b&lt;&lt;",bb:"&lt;&lt;bb&lt;&lt;endl; cout&lt;&lt;"sizeof(b):"&lt;&lt;sizeof(b)&lt;&lt;",sizeof(bb):"&lt;&lt;sizeof(bb)&lt;&lt;endl; return 0;&#125;// 结果如下：b:0,bb:0sizeof(b):1,sizeof(bb):4 一些表达式可以被赋值C++的表达式可以赋值，是因为运算符重载的缘故，如++i，重载++运算符，return *this， 可以继续赋值。注意：此处i++不可当做左值，因为 return int。1234567891011121314151617181920#include &lt;iostream&gt;using namespace std;int main()&#123; int a, b=5; (a=b) = 10; // C语言中编译不通过 cout&lt;&lt;"a:"&lt;&lt;a&lt;&lt;",b="&lt;&lt;b&lt;&lt;endl; (a!=b? a:b) = 1000; // C语言中编译不通过 cout&lt;&lt;"a:"&lt;&lt;a&lt;&lt;",b="&lt;&lt;b&lt;&lt;endl; int i = 0; ++i = 10; // C语言中编译不通过 cout&lt;&lt;"i:"&lt;&lt;i&lt;&lt;endl; return 0;&#125;//结果：a:10,b=5a:1000,b=5i:10 如果在使用C语言编译上述表达式，则会出现：12345678910test.c: In function ‘main’:test.c:5:11: error: lvalue required as left operand of assignment (a=b) = 10; ^test.c:6:17: error: lvalue required as left operand of assignment (a!=b? a:b) = 1000; ^test.c:9:9: error: lvalue required as left operand of assignment ++i = 10; ^]]></content>
+      <categories>
+        <category>cpp</category>
+      </categories>
+      <tags>
+        <tag>C++</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[C++类型安全增强]]></title>
+    <url>%2F2017%2F07%2F15%2Fcpp-type%2F</url>
+    <content type="text"><![CDATA[C++相对于C语言而已，是一种强类型语言，类型检查更严格。 严格的类型检查如，C语言中，可以使用一些“技巧”来更改常量的值，如下代码可直接运行：12345678910#include &lt;stdio.h&gt;int main()&#123; const int a ; // C语言可不初始化，定义后也不允许赋值 printf("before. a:%d\n", a); int *p = &amp;a; // C语言，左右两边类型不同，允许编译通过 *p = 10; // 可赋值 printf("after. a:%d\n", a); return 0;&#125; 而在C++中，则不允许，强类型检查就会让编译都不通过： 真正的枚举C语言中，可以对枚举变量进行任意赋值，而C++中，只能用枚举的元素进行赋值。12345678910111213141516enum SEASON&#123; Spr = 1, Sum,Autu,Win&#125;;int main()&#123; SEASON s; cout&lt;&lt;s&lt;&lt;endl; s = Spr; // C++中正确赋值 cout&lt;&lt;s&lt;&lt;endl; s = 1; // C++中赋值编译报错 cout&lt;&lt;s&lt;&lt;endl; return 0;&#125;]]></content>
+      <categories>
+        <category>cpp</category>
+      </categories>
+      <tags>
+        <tag>c++</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[sharpen_images]]></title>
+    <url>%2F2017%2F05%2F01%2Fsharpen-images%2F</url>
+    <content type="text"><![CDATA[https://www.youtube.com/watch?v=_tQu4OMlYso&amp;t=54s]]></content>
+      <categories>
+        <category>ps</category>
+      </categories>
+      <tags>
+        <tag>ps</tag>
+        <tag>sharpen</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[后台服务框架]]></title>
+    <url>%2F2017%2F02%2F25%2Fserver-framework%2F</url>
+    <content type="text"><![CDATA[设置服务器最大文件描述符个数，控制资源。linux中是通过文件方式来管理系统的。因此，系统能够承载的tcp连接数和系统文件打开数目能力相关，对于linux，系统最多能够打开的文件数目可通过/proc/sys/fs/file-max查看。使用select的方式，tcp最多只能打开1024各文件描述符；若使用poll，可以自己定义个数。 可设置服务端打开秒数符总数限制：TCPServerNum + AcceptClientNum + UDPServerNum + TCPClientNum + OtherFdNum(std, 文件fd， mysql fd等)]]></content>
+      <categories>
+        <category>svr_framework</category>
+      </categories>
+      <tags>
+        <tag>server</tag>
+        <tag>framework</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[单例模式]]></title>
+    <url>%2F2017%2F02%2F21%2Fsingleton%2F</url>
+    <content type="text"><![CDATA[单例模式，保证一个类只有一个实例，是设计模式中最简单的形式之一。例如windows回收站，在各个文件夹目录下，均有个回收站，与桌面上回收站是同一个实例： 构造函数私有化，只能在本类中定义对象 类共享一个实例化对象 12345678910class Singleton&#123; private Singleton() // 构造函数私有话，不能使用new进行对象实例化 &#123; &#125; private static Singleton instance = new Singleton(); public static Singleton getInstance() &#123; return instance; &#125;&#125; 单例模式有两种： 饿汉式：如上述代码，类中始终为用户提供一个本类的实例化对象； 懒汉式：类中不准备好实例化对象，在对象使用之前进行实例化：1234567891011121314class Singleton&#123; private Singleton() // 构造函数私有话，不能使用new进行对象实例化 &#123; &#125; private static Singleton instance; public static Singleton getInstance() &#123; if( instance == null ) &#123; instance = new Singleton(); &#125; return instance; &#125;&#125; 一般使用饿汉式即可。]]></content>
+      <categories>
+        <category>设计模式</category>
+      </categories>
+      <tags>
+        <tag>设计模式</tag>
+        <tag>单例模式</tag>
+        <tag>java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[C语言位运算]]></title>
+    <url>%2F2017%2F02%2F21%2Fmacro%2F</url>
+    <content type="text"><![CDATA[123#define COMM_BIT_SET(a,b) ((a) |= (1&lt;&lt;(b))) // 将 a 的 b 位置1（1左移b位）#define COMM_BIT_CLR(a,b) ((a) &amp;= ~(1&lt;&lt;(b))) // 将 a 的 b 位清零#define COMM_BIT_GET(a,b) (!!((a) &amp; (1&lt;&lt;(b)))) // 判断 a的b位是否置1 （!!用于将正数转为0或1） COMM_BIT_SET与COMM_BIT_GET通常组合使用： 12345678910111213enum &#123; TEST1 = 1, TEST2 = 2,&#125;;int i = 0;COMM_BIT_SET(i, TEST1);cout&lt;&lt; COMM_BIT_GET(i, TEST1) &lt;&lt;endl; // truecout&lt;&lt; COMM_BIT_GET(i, TEST2) &lt;&lt;endl; // falseCOMM_BIT_SET(i, TEST2);cout&lt;&lt; COMM_BIT_GET(i, TEST1) &lt;&lt;endl; // falsecout&lt;&lt; COMM_BIT_GET(i, TEST2) &lt;&lt;endl; // true 更多，参见]]></content>
+      <categories>
+        <category>c</category>
+      </categories>
+      <tags>
+        <tag>c</tag>
+        <tag>macro</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[linux下简单shell攻击命令]]></title>
+    <url>%2F2017%2F02%2F15%2Flinux-attack-cmd%2F</url>
+    <content type="text"><![CDATA[发包命令 udp发包命令：exec 3&lt;&gt;/dev/udp/ip/port; echo -e “test abc” &gt;&amp;3 // 发一个udp包 tcp发包命令：exec 3&lt;&gt;/dev/tcp/ip/port; // 发一个syn包]]></content>
+      <categories>
+        <category>linux</category>
+      </categories>
+      <tags>
+        <tag>linux</tag>
+        <tag>shell</tag>
+        <tag>attack</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[yara进程扫描api]]></title>
+    <url>%2F2017%2F02%2F14%2Fyr-rules-scan-proc%2F</url>
+    <content type="text"><![CDATA[yara 是一款开源匹配工具，使用其独特的规则语法用于信息匹配，yara规则可以用于文件及进程信息匹配。 其中，扫描进程api： YR_API int yr_rules_scan_proc(YR_RULES rules, int pid, int flags, YR_CALLBACK_FUNC callback, void user_data, int timeout); 该接口中使用 ptrace 追踪子进程内存数据，通过使用ptrace(PTRACE_ATTACH, pid, NULL, 0),读取/proc/pid/mem以获取进程数据，ptrace默认会发送SIGSTOP信号给tracee进程，使该进程处于暂停的僵死状态，（类似ctrl + z 命令，通过命令bg使其后台继续运行，fg使其转入前台运行）,读完数据之后调用ptrace(PTRACE_DETACH, pid, NULL, 0)使得被扫描进程继续执行。 注意： 如果扫描非自身进程内存内容，必须使用ptrace才行，类似： 1234567sprintf( buf, "/proc/%d/mem" , pid );fd = open( buf, O_RDONLY );ptrace( PTRACE_ATTACH, pid, NULL, NULL );waitpid( pid, NULL, 0 );lseek( fd, offset, SEEK_SET );read( fd, buf, sizeof(buf) );ptrace( PTRACE_DETACH, pid, NULL, NULL); 如果使用该接口扫描进程数据，发送SIGSTOP之后立即退出而不使用PTRACE_DETACH，则会导致被扫描进程处于僵死状态。类似find 命令执行操作时，使用ctrl + z，使用bg使得命令恢复: yr_rules_scan_proc接口实现如下：1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677787980YR_API int yr_rules_scan_proc( YR_RULES* rules, int pid, int flags, YR_CALLBACK_FUNC callback, void* user_data, int timeout)&#123; YR_MEMORY_BLOCK_ITERATOR iterator; int result = yr_process_open_iterator( pid, &amp;iterator); // 此处调用_yr_process_attach if (result == ERROR_SUCCESS) &#123; result = yr_rules_scan_mem_blocks( rules, &amp;iterator, flags | SCAN_FLAGS_PROCESS_MEMORY, callback, user_data, timeout); yr_process_close_iterator(&amp;iterator); // 此处调用_yr_process_detach &#125; return result;&#125;int _yr_process_attach( int pid, YR_PROC_ITERATOR_CTX* context)&#123; char buffer[256]; context-&gt;pid = pid; context-&gt;maps = NULL; context-&gt;mem_fd = -1; snprintf(buffer, sizeof(buffer), "/proc/%u/maps", pid); context-&gt;maps = fopen(buffer, "r"); if (context-&gt;maps == NULL) return ERROR_COULD_NOT_ATTACH_TO_PROCESS; snprintf(buffer, sizeof(buffer), "/proc/%u/mem", pid); context-&gt;mem_fd = open(buffer, O_RDONLY); if (context-&gt;mem_fd == -1) &#123; fclose(context-&gt;maps); context-&gt;maps = NULL; return ERROR_COULD_NOT_ATTACH_TO_PROCESS; &#125; if (ptrace(PTRACE_ATTACH, pid, NULL, 0) == -1) &#123; fclose(context-&gt;maps); context-&gt;maps = NULL; close(context-&gt;mem_fd); context-&gt;mem_fd = -1; return ERROR_COULD_NOT_ATTACH_TO_PROCESS; &#125; return ERROR_SUCCESS;&#125;int _yr_process_detach( YR_PROC_ITERATOR_CTX* context)&#123; fclose(context-&gt;maps); close(context-&gt;mem_fd); ptrace(PTRACE_DETACH, context-&gt;pid, NULL, 0); return ERROR_SUCCESS;&#125;]]></content>
+      <categories>
+        <category>c</category>
+      </categories>
+      <tags>
+        <tag>c</tag>
+        <tag>yara</tag>
+        <tag>proc</tag>
+        <tag>api</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[svm]]></title>
+    <url>%2F2017%2F02%2F14%2Fsvm%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>machine learning</category>
+      </categories>
+      <tags>
+        <tag>svm</tag>
+        <tag>math</tag>
+        <tag>machine learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo 博客源文件备份与恢复]]></title>
+    <url>%2F2017%2F02%2F08%2Fauto-bak-hexo-blog%2F</url>
+    <content type="text"><![CDATA[本文记录了两部分：hexo博客系统发布新文章时，自动备份托管到github；根据github上托管的项目，能够将最新的数据恢复到本地。自动备份详细技术原理可参考文章。 备份Hexo博客源文件 Github上新创建一个空的repo，取名hexo-next-blog用于远程仓库备份；进入本地博客源码的hexo文件夹，创建本地仓库： 1git init 设置远程仓库地址，并更新数据(第一次远程空仓库，无数据更新)： 12git remote add origin git@github:XXX/hexo-next-blog.gitgit pull origin master 修改.gitignore文件，加入.log, public/ 以及 deploy/; 本地提交Hexo源码： 12git add .git commit -m "hexo next blog数据备份" 本地仓库数据推送github仓库: 1git push origin master 恢复Hexo博客源文件 切换电脑后，安装node，git环境，配置github sshkey。 创建空目录hexo为工作目录，clone github上的repo：1git clone git@github.com:xxx/hexo-next-blog.git git clone成功后，安装hexo环境:1234npm install hexonpm installnpm install hexo-deployer-gitnpm install --save shelljs # 使用hexo d写文章时，自动备份时用 另外，themes/next主题文件夹下的数据不会备份，若需备份，可删除该文件夹下的.git目录等信息再加入备份。]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[静态成员函数调用非静态成员变量]]></title>
+    <url>%2F2017%2F02%2F07%2Fstatic-class-func-var%2F</url>
+    <content type="text"><![CDATA[一般使用情况下，类静态成员函数调用静态成员变量，不能调用非静态变量，否则编译器会出错。因为非静态成员属于类对象，只有在类对象的实例创建时，才会分配内存，然后通过对象进行访问；而静态成员属于整个类，不需要类对象的创建，此时使用静态成员访问非静态成员好比访问内存中不存在的东西。 静态成员调用静态成员的一般方法： 12345678910111213141516171819202122#include &lt;iostream&gt;using namespace std;class CStatic&#123;public: static void Print() &#123; cout&lt;&lt;m_iTest&lt;&lt;endl; &#125;private: static int m_iTest; //此处为静态成员变量声明&#125;;int CStatic::m_iTest = 0; // 此处为定义，必须定义，否则编译出错。此处亦可用 int CStatic::m_iTest; 代替int main(int argc, char* argv[])&#123; CStatic cs; cs.Print(); return 0;&#125; 使用上述方式，有个问题，就是需要对静态成员变量预先在类外定义，若成员变量个数较多，逐个定义起来比较麻烦。此时，可使用静态成员调用非静态成员方法，参见： 12345678910111213141516171819202122232425262728#include &lt;iostream&gt;using namespace std;class CStatic&#123;public: CStatic() &#123; m_iTest = 0; s_pInstance = this; // 构造函数初始化 &#125; static void Print() &#123; s_pInstance-&gt;m_iTest += 1; // cout&lt;&lt;s_pInstance-&gt;m_iTest&lt;&lt;endl; &#125;private: int m_iTest; static CStatic* s_pInstance;&#125;;CStatic* CStatic::s_pInstance = NULL ;int main(int argc, char* argv[])&#123; CStatic cs; // 已加载到内存，构造函数中有参数this进行初始化（相当于c语言先定义变量，再调用函数） cs.Print(); CStatic cs1; return 0;&#125;]]></content>
+      <categories>
+        <category>c++</category>
+      </categories>
+      <tags>
+        <tag>c++</tag>
+        <tag>static</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[DNS 解析]]></title>
+    <url>%2F2017%2F02%2F06%2Fdns%2F</url>
+    <content type="text"><![CDATA[DNS域名系统 DNS(Domain Name System，域名系统)，提供域名到IP的解析功能，可以采用静态域名解析方法，若解析不成功，再采用动态域名解析方法。使用静态域名解析表的方法，可以大大提高域名解析效率。 静态域名查询 本机配置域名到ip的解析于/etc/hosts中，以 ip domain 的形式； 通过查找本地的nscd进程中缓存的: getent hosts baiweiguo.github.io。 静态配置dns服务器，配置于: /etc/resolv.conf中，形式为：nameserver ip。其中，ip为dns服务器ip；动态域名查询 如果静态域名查询方式未查询到数据，客户端则会广播本机局域网，若局域网有DHCP(动态主机配置协议)服务器时，才会响应给客户端dns ip：若本地DNS服务器未解析成功，则会向dns服务器进行查询： DNS查询方式 分为递归查询与迭代查询点此参见，区别。 浏览器域名解析]]></content>
+      <categories>
+        <category>network</category>
+      </categories>
+      <tags>
+        <tag>dns</tag>
+        <tag>domain</tag>
+      </tags>
+  </entry>
+</search>

@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>winko&#39;s note</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://baiweiguo.github.io/"/>
+  <updated>2018-12-14T12:22:59.212Z</updated>
+  <id>http://baiweiguo.github.io/</id>
+  
+  <author>
+    <name>winko</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://baiweiguo.github.io/2018/12/14/hello-world/"/>
+    <id>http://baiweiguo.github.io/2018/12/14/hello-world/</id>
+    <published>2018-12-14T12:22:59.212Z</published>
+    <updated>2018-12-14T12:22:59.212Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.<br><a id="more"></a></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python django 学习</title>
+    <link href="http://baiweiguo.github.io/2017/09/27/django-start/"/>
+    <id>http://baiweiguo.github.io/2017/09/27/django-start/</id>
+    <published>2017-09-27T07:41:19.000Z</published>
+    <updated>2018-12-14T12:22:59.201Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>template method 模式</title>
+    <link href="http://baiweiguo.github.io/2017/08/14/template-method-li/"/>
+    <id>http://baiweiguo.github.io/2017/08/14/template-method-li/</id>
+    <published>2017-08-14T11:40:18.000Z</published>
+    <updated>2018-12-14T12:22:59.214Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="设计模式" scheme="http://baiweiguo.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+      <category term="设计模式" scheme="http://baiweiguo.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="李建中" scheme="http://baiweiguo.github.io/tags/%E6%9D%8E%E5%BB%BA%E4%B8%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>strategy模式</title>
+    <link href="http://baiweiguo.github.io/2017/08/14/strategy-li/"/>
+    <id>http://baiweiguo.github.io/2017/08/14/strategy-li/</id>
+    <published>2017-08-14T11:39:59.000Z</published>
+    <updated>2018-12-14T12:22:59.214Z</updated>
+    
+    <content type="html"><![CDATA[<p>如果代码中存在变化可扩展的 if…else 逻辑的硬编码，当新增一种逻辑分支时，须修改源码适配，维护较为困难。此时可通过该策略模式来解决。</p><a id="more"></a><p>详细介绍，可参见。<br><a href="http://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/strategy.html" target="_blank" rel="noopener">策略模式</a></p><p>注意：关键词 变化，可扩展（此处条件判断分支，随需求变化，需不断扩展条件分支情形；如果条件语句固定，如一周7天，此时无需使用该模式）</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/*************************************************************************</span></span><br><span class="line"><span class="comment">&gt; File Name: main.cpp</span></span><br><span class="line"><span class="comment">&gt; Author: ma6174</span></span><br><span class="line"><span class="comment">&gt; Mail: ma6174@163.com</span></span><br><span class="line"><span class="comment">&gt; Created Time: Mon 14 Aug 2017 05:10:06 AM PDT</span></span><br><span class="line"><span class="comment"> ************************************************************************/</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">"Strategy.h"</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">"Context.h"</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">"ConcreteStrategyA.h"</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">"ConcreteStrategyB.h"</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">ConcreteStrategyA *pCSA = <span class="keyword">new</span> ConcreteStrategyA();</span><br><span class="line">ConcreteStrategyB *pCSB = <span class="keyword">new</span> ConcreteStrategyB();</span><br><span class="line"></span><br><span class="line">Context *pContext = <span class="keyword">new</span> Context();</span><br><span class="line">pContext-&gt;SetStrategy(pCSA);</span><br><span class="line">pContext-&gt;Algorithm();</span><br><span class="line"></span><br><span class="line">pContext-&gt;SetStrategy(pCSB);</span><br><span class="line">pContext-&gt;Algorithm();</span><br><span class="line"></span><br><span class="line"><span class="keyword">delete</span> pCSA;</span><br><span class="line"><span class="keyword">delete</span> pCSB;</span><br><span class="line"><span class="keyword">delete</span> pContext;</span><br><span class="line"></span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/*************************************************************************</span></span><br><span class="line"><span class="comment">&gt; File Name: Context.h</span></span><br><span class="line"><span class="comment">&gt; Author: ma6174</span></span><br><span class="line"><span class="comment">&gt; Mail: ma6174@163.com</span></span><br><span class="line"><span class="comment">&gt; Created Time: Mon 14 Aug 2017 05:06:44 AM PDT</span></span><br><span class="line"><span class="comment"> ************************************************************************/</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">ifndef</span> __CONTEXT__H__</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> __CONTEXT__H__</span></span><br><span class="line"></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">"Strategy.h"</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Context</span></span></span><br><span class="line"><span class="class">&#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">SetStrategy</span><span class="params">(Strategy* cStrategy)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">m_cStrategy = cStrategy;</span><br><span class="line">&#125;</span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">Algorithm</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">m_cStrategy-&gt;Algorithm();</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">private</span>:</span><br><span class="line">Strategy *m_cStrategy;</span><br><span class="line">&#125;;</span><br><span class="line"><span class="meta">#<span class="meta-keyword">endif</span></span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">/*************************************************************************</span></span><br><span class="line"><span class="comment">&gt; File Name: Strategy.h</span></span><br><span class="line"><span class="comment">&gt; Author: ma6174</span></span><br><span class="line"><span class="comment">&gt; Mail: ma6174@163.com</span></span><br><span class="line"><span class="comment">&gt; Created Time: Mon 14 Aug 2017 05:02:15 AM PDT</span></span><br><span class="line"><span class="comment"> ************************************************************************/</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">ifndef</span> __STRATEGY__H</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> __STRATEGY__H</span></span><br><span class="line"></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Strategy</span></span></span><br><span class="line"><span class="class">&#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line"><span class="keyword">virtual</span> ~Strategy()&#123;&#125;</span><br><span class="line"><span class="function"><span class="keyword">virtual</span> <span class="keyword">void</span> <span class="title">Algorithm</span><span class="params">()</span> </span>= <span class="number">0</span>;</span><br><span class="line"></span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="meta">#<span class="meta-keyword">endif</span></span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">/*************************************************************************</span></span><br><span class="line"><span class="comment">&gt; File Name: ConcreteStrategyA.h</span></span><br><span class="line"><span class="comment">&gt; Author: ma6174</span></span><br><span class="line"><span class="comment">&gt; Mail: ma6174@163.com</span></span><br><span class="line"><span class="comment">&gt; Created Time: Mon 14 Aug 2017 05:03:31 AM PDT</span></span><br><span class="line"><span class="comment"> ************************************************************************/</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">ifndef</span> __ConcreteStategy__H__</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> __ConcreteStategy__H__</span></span><br><span class="line"></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">"Strategy.h"</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">ConcreteStrategyA</span>:</span><span class="keyword">public</span> Strategy</span><br><span class="line">&#123;</span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line"><span class="keyword">virtual</span> ~ConcreteStrategyA()&#123;&#125;</span><br><span class="line"><span class="function"><span class="keyword">virtual</span> <span class="keyword">void</span> <span class="title">Algorithm</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line"><span class="built_in">cout</span>&lt;&lt;<span class="string">"ConcreteStrategyA."</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">&#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="meta">#<span class="meta-keyword">endif</span></span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;如果代码中存在变化可扩展的 if…else 逻辑的硬编码，当新增一种逻辑分支时，须修改源码适配，维护较为困难。此时可通过该策略模式来解决。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="设计模式" scheme="http://baiweiguo.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+      <category term="设计模式" scheme="http://baiweiguo.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="李建中" scheme="http://baiweiguo.github.io/tags/%E6%9D%8E%E5%BB%BA%E4%B8%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>观察者模式</title>
+    <link href="http://baiweiguo.github.io/2017/08/14/observer-li/"/>
+    <id>http://baiweiguo.github.io/2017/08/14/observer-li/</id>
+    <published>2017-08-14T11:39:33.000Z</published>
+    <updated>2018-12-14T12:22:59.212Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="设计模式" scheme="http://baiweiguo.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+      <category term="设计模式" scheme="http://baiweiguo.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="李建中" scheme="http://baiweiguo.github.io/tags/%E6%9D%8E%E5%BB%BA%E4%B8%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>锐化</title>
+    <link href="http://baiweiguo.github.io/2017/08/04/sharpen-litao/"/>
+    <id>http://baiweiguo.github.io/2017/08/04/sharpen-litao/</id>
+    <published>2017-08-04T12:27:35.000Z</published>
+    <updated>2018-12-14T12:22:59.212Z</updated>
+    
+    <content type="html"><![CDATA[<p>PS三种锐化效果：常规锐化，精细化锐化，质感锐化。——- 李涛《数码摄影后期高手之路》</p><a id="more"></a><h3 id="常规锐化（高反差保留）"><a href="#常规锐化（高反差保留）" class="headerlink" title="常规锐化（高反差保留）"></a>常规锐化（高反差保留）</h3><p>1.复制一个图层，使用高反差保留滤镜<br>2.图像叠加</p><h3 id="精细化锐化（推荐）"><a href="#精细化锐化（推荐）" class="headerlink" title="精细化锐化（推荐）"></a>精细化锐化（推荐）</h3><p>1.锐化对象：LAB模式中的亮度通道，以减少彩色溢出情况。锐化是增加对比度，可能造成高光溢出<br>2.使用2次USM锐化。一次半径大一些5，一次半径小一些1.2</p><h3 id="质感锐化"><a href="#质感锐化" class="headerlink" title="质感锐化"></a>质感锐化</h3><p>1.生成两个背景图层；<br>2.其中一个使用表面模糊；<br>3.另外一个使用应用图像，减去表面模糊图层，得到颗粒图像；<br>4.叠加图像</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;PS三种锐化效果：常规锐化，精细化锐化，质感锐化。——- 李涛《数码摄影后期高手之路》&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="ps" scheme="http://baiweiguo.github.io/categories/ps/"/>
+    
+    
+      <category term="ps" scheme="http://baiweiguo.github.io/tags/ps/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++函数重载</title>
+    <link href="http://baiweiguo.github.io/2017/07/22/cpp-overload/"/>
+    <id>http://baiweiguo.github.io/2017/07/22/cpp-overload/</id>
+    <published>2017-07-22T12:48:27.000Z</published>
+    <updated>2018-12-14T12:22:59.200Z</updated>
+    
+    <content type="html"><![CDATA[<p>C++函数重载的原理，是c++编译器在利用name mangling技术（倾轧），来修改函数名，区分参数不同名字相同的函数。<br>重命名时使用 v-c-i-f-l-d表示void,char,int,float,long,double参数及其引用。<br><a id="more"></a><br>    <figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">nm a.out |grep func</span><br><span class="line"><span class="number">00000000004006e0</span> T _Z4funci     <span class="comment">// 使用C++编译，函数没有用extern "C" 修饰，倾轧</span></span><br><span class="line"></span><br><span class="line">nm a.out |grep func</span><br><span class="line"><span class="number">00000000004006e0</span> T func         <span class="comment">// 使用C++编译，函数使用extern "C" 修饰，不倾轧</span></span><br></pre></td></tr></table></figure></p><h4 id="C-函数重载（静多态）"><a href="#C-函数重载（静多态）" class="headerlink" title="C++函数重载（静多态）"></a>C++函数重载（静多态）</h4><p>函数名相同，函数参数列表不同：类型，个数，顺序。函数重载使用时，允许如下两种匹配原则：</p><ul><li>严格参数类型匹配<br>函数参数，使用强制类型转换</li><li><p>参数使用隐式类型转换<br>需注意：double 可隐式转化为int float，可引起二义性，编译不通过。（或这int隐式转long double）</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">func</span><span class="params">(<span class="keyword">int</span> a)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line"><span class="built_in">cout</span>&lt;&lt;a&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">func</span><span class="params">(<span class="keyword">float</span> a)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line"><span class="built_in">cout</span>&lt;&lt;a&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">func(<span class="number">4.5</span>); <span class="comment">// 4.5默认double类型，可使用 func(4.5f);</span></span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 编译出错：</span></span><br><span class="line">func.cpp: In function ‘int main()’:</span><br><span class="line">func.cpp:<span class="number">22</span>: error: call of overloaded ‘func(<span class="keyword">double</span>)’ is ambiguous</span><br><span class="line">func.cpp:<span class="number">11</span>: note: candidates are: <span class="function"><span class="keyword">void</span> <span class="title">func</span><span class="params">(<span class="keyword">int</span>)</span></span></span><br><span class="line">func.cpp:16: note:                 void func(float)</span><br><span class="line"></span><br><span class="line"><span class="comment">//使用 func(4.5f)时，则编译通过：</span></span><br><span class="line">nm a.out |grep func</span><br><span class="line"><span class="number">00000000004008</span>d0 t _GLOBAL__I__Z4funci</span><br><span class="line"><span class="number">000000000040084</span>d T _Z4funcf</span><br><span class="line"><span class="number">0000000000400824</span> T _Z4funci</span><br></pre></td></tr></table></figure></li></ul><h4 id="C-兼容C库"><a href="#C-兼容C库" class="headerlink" title="C++兼容C库"></a>C++兼容C库</h4><p>C++使用extern “C”修饰函数, 可使函数不进行倾轧，用于兼任C库使用。注：如果声明和定义位于不相关文件中，则声明和定义处均须使用。<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// main.cpp文件</span></span><br><span class="line"><span class="keyword">extern</span> <span class="string">"C"</span> <span class="function"><span class="keyword">void</span> <span class="title">func</span><span class="params">(<span class="keyword">int</span> a)</span></span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">func(<span class="number">3.5</span>);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// func.cpp文件</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="keyword">extern</span> <span class="string">"C"</span> <span class="function"><span class="keyword">void</span> <span class="title">func</span><span class="params">(<span class="keyword">int</span> a)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line"><span class="built_in">cout</span>&lt;&lt;a&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//若 func.cpp文件中无 extern "C"修饰 func，则：</span></span><br><span class="line">/tmp/cc3LVVzf.o: In function `main':</span><br><span class="line">test.cpp:(.text+<span class="number">0xa</span>): undefined reference to `func'</span><br><span class="line">collect2: ld returned <span class="number">1</span> <span class="built_in">exit</span> status</span><br><span class="line"><span class="comment">//若 声明extern "C"位于单独的头文件，main.cpp, func.cpp都引用该头文件，func.cpp未使用 extern "C"，也可以编译通过。</span></span><br></pre></td></tr></table></figure><p>—————本笔记来自于《带你实战C++》</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;C++函数重载的原理，是c++编译器在利用name mangling技术（倾轧），来修改函数名，区分参数不同名字相同的函数。&lt;br&gt;重命名时使用 v-c-i-f-l-d表示void,char,int,float,long,double参数及其引用。&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="cpp" scheme="http://baiweiguo.github.io/categories/cpp/"/>
+    
+    
+      <category term="cpp" scheme="http://baiweiguo.github.io/tags/cpp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++对C的扩展</title>
+    <link href="http://baiweiguo.github.io/2017/07/16/cpp-extension-1/"/>
+    <id>http://baiweiguo.github.io/2017/07/16/cpp-extension-1/</id>
+    <published>2017-07-16T02:51:55.000Z</published>
+    <updated>2018-12-14T12:22:59.199Z</updated>
+    
+    <content type="html"><![CDATA[<p>C++在C的基础上进行了扩展，如扩展了bool类型，表达式可以被赋值等等<br><a id="more"></a></p><h4 id="扩展了bool类型等"><a href="#扩展了bool类型等" class="headerlink" title="扩展了bool类型等"></a>扩展了bool类型等</h4><p>C语言中表示真假用非0与0，而C++中扩展使用true与false，实际上的bool类型是一个枚举变量，如下：<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="keyword">enum</span> BOOL</span><br><span class="line">&#123;   </span><br><span class="line">    FALSE,TRUE</span><br><span class="line">&#125;;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">bool</span> b = <span class="literal">false</span>;</span><br><span class="line">    BOOL bb = FALSE;</span><br><span class="line">    <span class="built_in">cout</span>&lt;&lt;<span class="string">"b:"</span>&lt;&lt;b&lt;&lt;<span class="string">",bb:"</span>&lt;&lt;bb&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">    <span class="built_in">cout</span>&lt;&lt;<span class="string">"sizeof(b):"</span>&lt;&lt;<span class="keyword">sizeof</span>(b)&lt;&lt;<span class="string">",sizeof(bb):"</span>&lt;&lt;<span class="keyword">sizeof</span>(bb)&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 结果如下：</span></span><br><span class="line">b:<span class="number">0</span>,bb:<span class="number">0</span></span><br><span class="line"><span class="keyword">sizeof</span>(b):<span class="number">1</span>,<span class="keyword">sizeof</span>(bb):<span class="number">4</span></span><br></pre></td></tr></table></figure></p><h4 id="一些表达式可以被赋值"><a href="#一些表达式可以被赋值" class="headerlink" title="一些表达式可以被赋值"></a>一些表达式可以被赋值</h4><p>C++的表达式可以赋值，是因为运算符重载的缘故，如++i，重载++运算符，return *this， 可以继续赋值。注意：此处i++不可当做左值，因为 return int。<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> a, b=<span class="number">5</span>;</span><br><span class="line">    (a=b) = <span class="number">10</span>;    <span class="comment">// C语言中编译不通过</span></span><br><span class="line">    <span class="built_in">cout</span>&lt;&lt;<span class="string">"a:"</span>&lt;&lt;a&lt;&lt;<span class="string">",b="</span>&lt;&lt;b&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">    (a!=b? a:b) = <span class="number">1000</span>;              <span class="comment">// C语言中编译不通过</span></span><br><span class="line">    <span class="built_in">cout</span>&lt;&lt;<span class="string">"a:"</span>&lt;&lt;a&lt;&lt;<span class="string">",b="</span>&lt;&lt;b&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">int</span> i = <span class="number">0</span>;</span><br><span class="line">    ++i = <span class="number">10</span>;      <span class="comment">// C语言中编译不通过</span></span><br><span class="line">    <span class="built_in">cout</span>&lt;&lt;<span class="string">"i:"</span>&lt;&lt;i&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//结果：</span></span><br><span class="line">a:<span class="number">10</span>,b=<span class="number">5</span></span><br><span class="line">a:<span class="number">1000</span>,b=<span class="number">5</span></span><br><span class="line">i:<span class="number">10</span></span><br></pre></td></tr></table></figure></p><p>如果在使用C语言编译上述表达式，则会出现：<br><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">test.c: In function ‘main’:</span><br><span class="line">test.c:<span class="number">5</span>:<span class="number">11</span>: error: lvalue required as left operand of assignment</span><br><span class="line">     (a=b) = <span class="number">10</span>;</span><br><span class="line">           ^</span><br><span class="line">test.c:<span class="number">6</span>:<span class="number">17</span>: error: lvalue required as left operand of assignment</span><br><span class="line">     (a!=b? a:b) = <span class="number">1000</span>;</span><br><span class="line">                 ^</span><br><span class="line">test.c:<span class="number">9</span>:<span class="number">9</span>: error: lvalue required as left operand of assignment</span><br><span class="line">     ++i = <span class="number">10</span>;</span><br><span class="line">         ^</span><br></pre></td></tr></table></figure></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;C++在C的基础上进行了扩展，如扩展了bool类型，表达式可以被赋值等等&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="cpp" scheme="http://baiweiguo.github.io/categories/cpp/"/>
+    
+    
+      <category term="C++" scheme="http://baiweiguo.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++类型安全增强</title>
+    <link href="http://baiweiguo.github.io/2017/07/15/cpp-type/"/>
+    <id>http://baiweiguo.github.io/2017/07/15/cpp-type/</id>
+    <published>2017-07-15T05:36:48.000Z</published>
+    <updated>2018-12-14T12:22:59.200Z</updated>
+    
+    <content type="html"><![CDATA[<p>C++相对于C语言而已，是一种强类型语言，类型检查更严格。<br><a id="more"></a></p><h4 id="严格的类型检查"><a href="#严格的类型检查" class="headerlink" title="严格的类型检查"></a>严格的类型检查</h4><p>如，C语言中，可以使用一些“技巧”来更改常量的值，如下代码可直接运行：<br><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">const</span> <span class="keyword">int</span> a ;          <span class="comment">// C语言可不初始化，定义后也不允许赋值</span></span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">"before. a:%d\n"</span>, a);</span><br><span class="line">    <span class="keyword">int</span> *p = &amp;a;          <span class="comment">// C语言，左右两边类型不同，允许编译通过</span></span><br><span class="line">    *p = <span class="number">10</span>;              <span class="comment">// 可赋值  </span></span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">"after. a:%d\n"</span>, a);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><p><img src="/2017/07/15/cpp-type/Selection_002.png" alt="hosts"></p><p>而在C++中，则不允许，强类型检查就会让编译都不通过：<br><img src="/2017/07/15/cpp-type/Selection_001.png" alt=""></p><h4 id="真正的枚举"><a href="#真正的枚举" class="headerlink" title="真正的枚举"></a>真正的枚举</h4><p>C语言中，可以对枚举变量进行任意赋值，而C++中，只能用枚举的元素进行赋值。<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">enum</span> SEASON</span><br><span class="line">&#123;</span><br><span class="line">    Spr = <span class="number">1</span>,</span><br><span class="line">    Sum,Autu,Win</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    SEASON s;</span><br><span class="line">    <span class="built_in">cout</span>&lt;&lt;s&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">    s = Spr;         <span class="comment">// C++中正确赋值</span></span><br><span class="line">    <span class="built_in">cout</span>&lt;&lt;s&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">    s = <span class="number">1</span>;           <span class="comment">// C++中赋值编译报错</span></span><br><span class="line">    <span class="built_in">cout</span>&lt;&lt;s&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><p><img src="/2017/07/15/cpp-type/Selection_003.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;C++相对于C语言而已，是一种强类型语言，类型检查更严格。&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="cpp" scheme="http://baiweiguo.github.io/categories/cpp/"/>
+    
+    
+      <category term="c++" scheme="http://baiweiguo.github.io/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sharpen_images</title>
+    <link href="http://baiweiguo.github.io/2017/05/01/sharpen-images/"/>
+    <id>http://baiweiguo.github.io/2017/05/01/sharpen-images/</id>
+    <published>2017-05-01T11:22:46.000Z</published>
+    <updated>2018-12-14T12:22:59.212Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.youtube.com/watch?v=_tQu4OMlYso&amp;t=54s" target="_blank" rel="noopener">https://www.youtube.com/watch?v=_tQu4OMlYso&amp;t=54s</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=_tQu4OMlYso&amp;amp;t=54s&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.youtube.com/watch?v=_tQu4OMlYs
+      
+    
+    </summary>
+    
+      <category term="ps" scheme="http://baiweiguo.github.io/categories/ps/"/>
+    
+    
+      <category term="ps" scheme="http://baiweiguo.github.io/tags/ps/"/>
+    
+      <category term="sharpen" scheme="http://baiweiguo.github.io/tags/sharpen/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>后台服务框架</title>
+    <link href="http://baiweiguo.github.io/2017/02/25/server-framework/"/>
+    <id>http://baiweiguo.github.io/2017/02/25/server-framework/</id>
+    <published>2017-02-25T07:21:32.000Z</published>
+    <updated>2018-12-14T12:22:59.212Z</updated>
+    
+    <content type="html"><![CDATA[<p>设置服务器最大文件描述符个数，控制资源。<br>linux中是通过文件方式来管理系统的。因此，系统能够承载的tcp连接数和系统文件打开数目能力相关，对于linux，系统最多能够打开的文件数目可通过/proc/sys/fs/file-max查看。<br>使用select的方式，tcp最多只能打开1024各文件描述符；若使用poll，可以自己定义个数。</p><p>可设置服务端打开秒数符总数限制：<br>TCPServerNum + AcceptClientNum + UDPServerNum + TCPClientNum + OtherFdNum(std, 文件fd， mysql fd等)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;设置服务器最大文件描述符个数，控制资源。&lt;br&gt;linux中是通过文件方式来管理系统的。因此，系统能够承载的tcp连接数和系统文件打开数目能力相关，对于linux，系统最多能够打开的文件数目可通过/proc/sys/fs/file-max查看。&lt;br&gt;使用select的方式
+      
+    
+    </summary>
+    
+      <category term="svr_framework" scheme="http://baiweiguo.github.io/categories/svr-framework/"/>
+    
+    
+      <category term="server" scheme="http://baiweiguo.github.io/tags/server/"/>
+    
+      <category term="framework" scheme="http://baiweiguo.github.io/tags/framework/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>单例模式</title>
+    <link href="http://baiweiguo.github.io/2017/02/21/singleton/"/>
+    <id>http://baiweiguo.github.io/2017/02/21/singleton/</id>
+    <published>2017-02-21T14:23:18.000Z</published>
+    <updated>2018-12-14T12:22:59.213Z</updated>
+    
+    <content type="html"><![CDATA[<p> 　　单例模式，保证一个类只有一个实例，是设计模式中最简单的形式之一。例如windows回收站，在各个文件夹目录下，均有个回收站，与桌面上回收站是同一个实例：<br> <a id="more"></a><br><img src="/2017/02/21/singleton/abc0000000007.png" alt=""></p><ul><li>构造函数私有化，只能在本类中定义对象</li><li>类共享一个实例化对象</li></ul><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Singleton</span></span>&#123;</span><br><span class="line">  <span class="function"><span class="keyword">private</span> <span class="title">Singleton</span><span class="params">()</span>   <span class="comment">// 构造函数私有话，不能使用new进行对象实例化</span></span></span><br><span class="line"><span class="function">  </span>&#123;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">private</span> <span class="keyword">static</span> Singleton instance = <span class="keyword">new</span> Singleton();</span><br><span class="line">  <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> Singleton <span class="title">getInstance</span><span class="params">()</span></span></span><br><span class="line"><span class="function">  </span>&#123;</span><br><span class="line">      <span class="keyword">return</span> instance;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>单例模式有两种：</p><ul><li>饿汉式：如上述代码，类中始终为用户提供一个本类的实例化对象；</li><li>懒汉式：类中不准备好实例化对象，在对象使用之前进行实例化：<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Singleton</span></span>&#123;</span><br><span class="line">  <span class="function"><span class="keyword">private</span> <span class="title">Singleton</span><span class="params">()</span>   <span class="comment">// 构造函数私有话，不能使用new进行对象实例化</span></span></span><br><span class="line"><span class="function">  </span>&#123;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">private</span> <span class="keyword">static</span> Singleton instance;</span><br><span class="line">  <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> Singleton <span class="title">getInstance</span><span class="params">()</span></span></span><br><span class="line"><span class="function">  </span>&#123;</span><br><span class="line">      <span class="keyword">if</span>( instance == <span class="keyword">null</span> )</span><br><span class="line">      &#123;</span><br><span class="line">         instance = <span class="keyword">new</span> Singleton();</span><br><span class="line">      &#125;</span><br><span class="line">      <span class="keyword">return</span> instance;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li></ul><p>一般使用饿汉式即可。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 　　单例模式，保证一个类只有一个实例，是设计模式中最简单的形式之一。例如windows回收站，在各个文件夹目录下，均有个回收站，与桌面上回收站是同一个实例：&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="设计模式" scheme="http://baiweiguo.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+      <category term="设计模式" scheme="http://baiweiguo.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="单例模式" scheme="http://baiweiguo.github.io/tags/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="java" scheme="http://baiweiguo.github.io/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言位运算</title>
+    <link href="http://baiweiguo.github.io/2017/02/21/macro/"/>
+    <id>http://baiweiguo.github.io/2017/02/21/macro/</id>
+    <published>2017-02-21T10:47:54.000Z</published>
+    <updated>2018-12-14T12:22:59.212Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">define</span> COMM_BIT_SET(a,b)     ((a) |= (1&lt;&lt;(b)))   <span class="comment">// 将 a 的 b 位置1（1左移b位）</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> COMM_BIT_CLR(a,b)     ((a) &amp;= ~(1&lt;&lt;(b)))  <span class="comment">// 将 a 的 b 位清零</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> COMM_BIT_GET(a,b)     (!!((a) &amp; (1&lt;&lt;(b)))) <span class="comment">// 判断 a的b位是否置1 （!!用于将正数转为0或1）</span></span></span><br></pre></td></tr></table></figure><a id="more"></a><p>COMM_BIT_SET与COMM_BIT_GET通常组合使用：</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">enum</span> &#123;</span><br><span class="line">  TEST1 = <span class="number">1</span>,</span><br><span class="line">  TEST2 = <span class="number">2</span>,</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> i = <span class="number">0</span>;</span><br><span class="line">COMM_BIT_SET(i, TEST1);</span><br><span class="line"><span class="built_in">cout</span>&lt;&lt; COMM_BIT_GET(i, TEST1) &lt;&lt;<span class="built_in">endl</span>;  <span class="comment">// true</span></span><br><span class="line"><span class="built_in">cout</span>&lt;&lt; COMM_BIT_GET(i, TEST2) &lt;&lt;<span class="built_in">endl</span>;  <span class="comment">// false</span></span><br><span class="line"></span><br><span class="line">COMM_BIT_SET(i, TEST2);</span><br><span class="line"><span class="built_in">cout</span>&lt;&lt; COMM_BIT_GET(i, TEST1) &lt;&lt;<span class="built_in">endl</span>;  <span class="comment">// false</span></span><br><span class="line"><span class="built_in">cout</span>&lt;&lt; COMM_BIT_GET(i, TEST2) &lt;&lt;<span class="built_in">endl</span>;  <span class="comment">// true</span></span><br></pre></td></tr></table></figure><p>更多，<a href="http://imhuchao.com/423.html" target="_blank" rel="noopener">参见</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;meta&quot;&gt;#&lt;span class=&quot;meta-keyword&quot;&gt;define&lt;/span&gt; COMM_BIT_SET(a,b)     ((a) |= (1&amp;lt;&amp;lt;(b)))   &lt;span class=&quot;comment&quot;&gt;// 将 a 的 b 位置1（1左移b位）&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;meta&quot;&gt;#&lt;span class=&quot;meta-keyword&quot;&gt;define&lt;/span&gt; COMM_BIT_CLR(a,b)     ((a) &amp;amp;= ~(1&amp;lt;&amp;lt;(b)))  &lt;span class=&quot;comment&quot;&gt;// 将 a 的 b 位清零&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;meta&quot;&gt;#&lt;span class=&quot;meta-keyword&quot;&gt;define&lt;/span&gt; COMM_BIT_GET(a,b)     (!!((a) &amp;amp; (1&amp;lt;&amp;lt;(b)))) &lt;span class=&quot;comment&quot;&gt;// 判断 a的b位是否置1 （!!用于将正数转为0或1）&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="c" scheme="http://baiweiguo.github.io/categories/c/"/>
+    
+    
+      <category term="c" scheme="http://baiweiguo.github.io/tags/c/"/>
+    
+      <category term="macro" scheme="http://baiweiguo.github.io/tags/macro/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux下简单shell攻击命令</title>
+    <link href="http://baiweiguo.github.io/2017/02/15/linux-attack-cmd/"/>
+    <id>http://baiweiguo.github.io/2017/02/15/linux-attack-cmd/</id>
+    <published>2017-02-15T12:55:02.000Z</published>
+    <updated>2018-12-14T12:22:59.212Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="发包命令"><a href="#发包命令" class="headerlink" title="发包命令"></a>发包命令</h3><ul><li>udp发包命令：exec 3&lt;&gt;/dev/udp/ip/port; echo -e “test abc” &gt;&amp;3 // 发一个udp包</li><li>tcp发包命令：exec 3&lt;&gt;/dev/tcp/ip/port;  // 发一个syn包</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;发包命令&quot;&gt;&lt;a href=&quot;#发包命令&quot; class=&quot;headerlink&quot; title=&quot;发包命令&quot;&gt;&lt;/a&gt;发包命令&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;udp发包命令：exec 3&amp;lt;&amp;gt;/dev/udp/ip/port; echo -e “test ab
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="http://baiweiguo.github.io/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="http://baiweiguo.github.io/tags/linux/"/>
+    
+      <category term="shell" scheme="http://baiweiguo.github.io/tags/shell/"/>
+    
+      <category term="attack" scheme="http://baiweiguo.github.io/tags/attack/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>yara进程扫描api</title>
+    <link href="http://baiweiguo.github.io/2017/02/14/yr-rules-scan-proc/"/>
+    <id>http://baiweiguo.github.io/2017/02/14/yr-rules-scan-proc/</id>
+    <published>2017-02-14T15:26:29.000Z</published>
+    <updated>2018-12-14T12:22:59.214Z</updated>
+    
+    <content type="html"><![CDATA[<p>　　<a href="https://github.com/VirusTotal/yara" target="_blank" rel="noopener">yara</a> 是一款开源匹配工具，使用其独特的规则语法用于信息匹配，yara规则可以用于文件及进程信息匹配。<br>　　其中，扫描进程api：<br>　　YR_API int <strong>yr_rules_scan_proc</strong>(YR_RULES<em> rules, int pid, int flags, YR_CALLBACK_FUNC callback, void</em> user_data, int timeout);<br><a id="more"></a></p><p>　　该接口中使用 ptrace 追踪子进程内存数据，通过使用ptrace(PTRACE_ATTACH, pid, NULL, 0),读取<a href="http://www.tuicool.com/articles/nUZRBrn" target="_blank" rel="noopener">/proc/pid/mem</a>以获取进程数据，ptrace默认会发送<a href="http://www.man7.org/linux/man-pages/man2/ptrace.2.html" target="_blank" rel="noopener">SIGSTOP</a>信号给tracee进程，使该进程处于暂停的僵死状态，（类似ctrl + z 命令，通过命令bg使其后台继续运行，fg使其转入前台运行）,读完数据之后调用ptrace(PTRACE_DETACH, pid,  NULL, 0)使得被扫描进程继续执行。</p><p>注意：</p><ul><li><p>如果扫描非自身进程内存内容，必须使用ptrace才行，类似：</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">sprintf</span>( buf, <span class="string">"/proc/%d/mem"</span> , pid );</span><br><span class="line">fd = open( buf, O_RDONLY );</span><br><span class="line">ptrace( PTRACE_ATTACH, pid, <span class="literal">NULL</span>, <span class="literal">NULL</span> );</span><br><span class="line">waitpid( pid, <span class="literal">NULL</span>, <span class="number">0</span> );</span><br><span class="line">lseek( fd, offset, SEEK_SET );</span><br><span class="line">read( fd, buf, <span class="keyword">sizeof</span>(buf) );</span><br><span class="line">ptrace( PTRACE_DETACH, pid, <span class="literal">NULL</span>, <span class="literal">NULL</span>);</span><br></pre></td></tr></table></figure></li><li><p>如果使用该接口扫描进程数据，发送SIGSTOP之后立即退出而不使用PTRACE_DETACH，则会导致被扫描进程处于僵死状态。类似find 命令执行操作时，使用ctrl + z，使用bg使得命令恢复:<br><img src="/2017/02/14/yr-rules-scan-proc/abc0000000006.png" alt=""></p></li></ul><p>yr_rules_scan_proc接口实现如下：<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br></pre></td><td class="code"><pre><span class="line"><span class="function">YR_API <span class="keyword">int</span> <span class="title">yr_rules_scan_proc</span><span class="params">(</span></span></span><br><span class="line"><span class="function"><span class="params">    YR_RULES* rules,</span></span></span><br><span class="line"><span class="function"><span class="params">    <span class="keyword">int</span> pid,</span></span></span><br><span class="line"><span class="function"><span class="params">    <span class="keyword">int</span> flags,</span></span></span><br><span class="line"><span class="function"><span class="params">    YR_CALLBACK_FUNC callback,</span></span></span><br><span class="line"><span class="function"><span class="params">    <span class="keyword">void</span>* user_data,</span></span></span><br><span class="line"><span class="function"><span class="params">    <span class="keyword">int</span> timeout)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">  YR_MEMORY_BLOCK_ITERATOR iterator;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">int</span> result = yr_process_open_iterator(</span><br><span class="line">      pid,</span><br><span class="line">      &amp;iterator);   <span class="comment">// 此处调用_yr_process_attach</span></span><br><span class="line"></span><br><span class="line">  <span class="keyword">if</span> (result == ERROR_SUCCESS)</span><br><span class="line">  &#123;</span><br><span class="line">    result = yr_rules_scan_mem_blocks(</span><br><span class="line">        rules,</span><br><span class="line">        &amp;iterator,</span><br><span class="line">        flags | SCAN_FLAGS_PROCESS_MEMORY,</span><br><span class="line">        callback,</span><br><span class="line">        user_data,</span><br><span class="line">        timeout);</span><br><span class="line"></span><br><span class="line">    yr_process_close_iterator(&amp;iterator);  <span class="comment">// 此处调用_yr_process_detach</span></span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">return</span> result;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> _yr_process_attach(</span><br><span class="line">    <span class="keyword">int</span> pid,</span><br><span class="line">    YR_PROC_ITERATOR_CTX* context)</span><br><span class="line">&#123;</span><br><span class="line">  <span class="keyword">char</span> buffer[<span class="number">256</span>];</span><br><span class="line"></span><br><span class="line">  context-&gt;pid = pid;</span><br><span class="line">  context-&gt;maps = <span class="literal">NULL</span>;</span><br><span class="line">  context-&gt;mem_fd = <span class="number">-1</span>;</span><br><span class="line"></span><br><span class="line">  <span class="built_in">snprintf</span>(buffer, <span class="keyword">sizeof</span>(buffer), <span class="string">"/proc/%u/maps"</span>, pid);</span><br><span class="line">  context-&gt;maps = fopen(buffer, <span class="string">"r"</span>);</span><br><span class="line"></span><br><span class="line">  <span class="keyword">if</span> (context-&gt;maps == <span class="literal">NULL</span>)</span><br><span class="line">    <span class="keyword">return</span> ERROR_COULD_NOT_ATTACH_TO_PROCESS;</span><br><span class="line"></span><br><span class="line">  <span class="built_in">snprintf</span>(buffer, <span class="keyword">sizeof</span>(buffer), <span class="string">"/proc/%u/mem"</span>, pid);</span><br><span class="line">  context-&gt;mem_fd = open(buffer, O_RDONLY);</span><br><span class="line"></span><br><span class="line">  <span class="keyword">if</span> (context-&gt;mem_fd == <span class="number">-1</span>)</span><br><span class="line">  &#123;</span><br><span class="line">    fclose(context-&gt;maps);</span><br><span class="line">    context-&gt;maps = <span class="literal">NULL</span>;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> ERROR_COULD_NOT_ATTACH_TO_PROCESS;</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">if</span> (ptrace(PTRACE_ATTACH, pid, <span class="literal">NULL</span>, <span class="number">0</span>) == <span class="number">-1</span>)</span><br><span class="line">  &#123;</span><br><span class="line">    fclose(context-&gt;maps);</span><br><span class="line">    context-&gt;maps = <span class="literal">NULL</span>;</span><br><span class="line"></span><br><span class="line">    close(context-&gt;mem_fd);</span><br><span class="line">    context-&gt;mem_fd = <span class="number">-1</span>;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> ERROR_COULD_NOT_ATTACH_TO_PROCESS;</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="keyword">return</span> ERROR_SUCCESS;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> _yr_process_detach(</span><br><span class="line">    YR_PROC_ITERATOR_CTX* context)</span><br><span class="line">&#123;</span><br><span class="line">  fclose(context-&gt;maps);</span><br><span class="line">  close(context-&gt;mem_fd);</span><br><span class="line">  ptrace(PTRACE_DETACH, context-&gt;pid, <span class="literal">NULL</span>, <span class="number">0</span>);</span><br><span class="line"></span><br><span class="line">  <span class="keyword">return</span> ERROR_SUCCESS;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;　　&lt;a href=&quot;https://github.com/VirusTotal/yara&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;yara&lt;/a&gt; 是一款开源匹配工具，使用其独特的规则语法用于信息匹配，yara规则可以用于文件及进程信息匹配。&lt;br&gt;　　其中，扫描进程api：&lt;br&gt;　　YR_API int &lt;strong&gt;yr_rules_scan_proc&lt;/strong&gt;(YR_RULES&lt;em&gt; rules, int pid, int flags, YR_CALLBACK_FUNC callback, void&lt;/em&gt; user_data, int timeout);&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="c" scheme="http://baiweiguo.github.io/categories/c/"/>
+    
+    
+      <category term="c" scheme="http://baiweiguo.github.io/tags/c/"/>
+    
+      <category term="yara" scheme="http://baiweiguo.github.io/tags/yara/"/>
+    
+      <category term="proc" scheme="http://baiweiguo.github.io/tags/proc/"/>
+    
+      <category term="api" scheme="http://baiweiguo.github.io/tags/api/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>svm</title>
+    <link href="http://baiweiguo.github.io/2017/02/14/svm/"/>
+    <id>http://baiweiguo.github.io/2017/02/14/svm/</id>
+    <published>2017-02-14T11:25:32.000Z</published>
+    <updated>2018-12-14T12:22:59.214Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="machine learning" scheme="http://baiweiguo.github.io/categories/machine-learning/"/>
+    
+    
+      <category term="svm" scheme="http://baiweiguo.github.io/tags/svm/"/>
+    
+      <category term="math" scheme="http://baiweiguo.github.io/tags/math/"/>
+    
+      <category term="machine learning" scheme="http://baiweiguo.github.io/tags/machine-learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 博客源文件备份与恢复</title>
+    <link href="http://baiweiguo.github.io/2017/02/08/auto-bak-hexo-blog/"/>
+    <id>http://baiweiguo.github.io/2017/02/08/auto-bak-hexo-blog/</id>
+    <published>2017-02-08T12:06:25.000Z</published>
+    <updated>2018-12-14T12:22:59.199Z</updated>
+    
+    <content type="html"><![CDATA[<p>　　本文记录了两部分：hexo博客系统发布新文章时，自动备份托管到github；根据github上托管的项目，能够将最新的数据恢复到本地。自动备份详细技术原理可参考<a href="http://igeek.wang/2016/09/01/automatic-backup/#more" target="_blank" rel="noopener">文章</a>。</p><a id="more"></a><h3 id="备份Hexo博客源文件"><a href="#备份Hexo博客源文件" class="headerlink" title="备份Hexo博客源文件"></a>备份Hexo博客源文件</h3><ul><li><p>Github上新创建一个空的repo，取名hexo-next-blog用于远程仓库备份；进入本地博客源码的hexo文件夹，创建本地仓库：</p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git init</span><br></pre></td></tr></table></figure></li><li><p>设置远程仓库地址，并更新数据(第一次远程空仓库，无数据更新)：</p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git remote add origin git@github:XXX/hexo-next-blog.git</span><br><span class="line">git pull origin master</span><br></pre></td></tr></table></figure></li><li><p>修改.gitignore文件，加入<em>.log, public/ 以及 deploy</em>/;</p></li><li><p>本地提交Hexo源码：</p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -m <span class="string">"hexo next blog数据备份"</span></span><br></pre></td></tr></table></figure></li><li><p>本地仓库数据推送github仓库:</p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git push origin master</span><br></pre></td></tr></table></figure></li></ul><h3 id="恢复Hexo博客源文件"><a href="#恢复Hexo博客源文件" class="headerlink" title="恢复Hexo博客源文件"></a>恢复Hexo博客源文件</h3><p>　　切换电脑后，安装node，git环境，配置github sshkey。<br>　　创建空目录hexo为工作目录，clone github上的repo：<br><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span> git@github.com:xxx/hexo-next-blog.git</span><br></pre></td></tr></table></figure></p><p>　　git clone成功后，安装hexo环境:<br><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo</span><br><span class="line">npm install</span><br><span class="line">npm install hexo-deployer-git</span><br><span class="line">npm install --save shelljs   <span class="comment"># 使用hexo d写文章时，自动备份时用</span></span><br></pre></td></tr></table></figure></p><p>另外，themes/next主题文件夹下的数据不会备份，若需备份，可删除该文件夹下的.git目录等信息再加入备份。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;　　本文记录了两部分：hexo博客系统发布新文章时，自动备份托管到github；根据github上托管的项目，能够将最新的数据恢复到本地。自动备份详细技术原理可参考&lt;a href=&quot;http://igeek.wang/2016/09/01/automatic-backup/#more&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;文章&lt;/a&gt;。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://baiweiguo.github.io/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://baiweiguo.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>静态成员函数调用非静态成员变量</title>
+    <link href="http://baiweiguo.github.io/2017/02/07/static-class-func-var/"/>
+    <id>http://baiweiguo.github.io/2017/02/07/static-class-func-var/</id>
+    <published>2017-02-07T08:14:49.000Z</published>
+    <updated>2018-12-14T12:22:59.214Z</updated>
+    
+    <content type="html"><![CDATA[<p>　　一般使用情况下，类静态成员函数调用静态成员变量，不能调用非静态变量，否则编译器会出错。因为非静态成员属于类对象，只有在类对象的实例创建时，才会分配内存，然后通过对象进行访问；而静态成员属于整个类，不需要类对象的创建，此时使用静态成员访问非静态成员好比访问内存中不存在的东西。</p><a id="more"></a><p>　　静态成员调用静态成员的一般方法：</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">CStatic</span></span></span><br><span class="line"><span class="class">&#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    <span class="function"><span class="keyword">static</span> <span class="keyword">void</span> <span class="title">Print</span><span class="params">()</span></span></span><br><span class="line"><span class="function">    </span>&#123;</span><br><span class="line">        <span class="built_in">cout</span>&lt;&lt;m_iTest&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">    &#125;</span><br><span class="line"><span class="keyword">private</span>:</span><br><span class="line">    <span class="keyword">static</span> <span class="keyword">int</span> m_iTest; <span class="comment">//此处为静态成员变量声明</span></span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> CStatic::m_iTest = <span class="number">0</span>; <span class="comment">// 此处为定义，必须定义，否则编译出错。此处亦可用 int CStatic::m_iTest; 代替</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">(<span class="keyword">int</span> argc, <span class="keyword">char</span>* argv[])</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    CStatic cs;</span><br><span class="line">    cs.Print();</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>　　使用上述方式，有个问题，就是<strong>需要对静态成员变量预先在类外定义，若成员变量个数较多，逐个定义起来比较麻烦</strong>。此时，可使用静态成员调用非静态成员方法，<a href="http://www.cnblogs.com/rickyk/p/4238380.html" target="_blank" rel="noopener">参见</a>：</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">CStatic</span></span></span><br><span class="line"><span class="class">&#123;</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line">    CStatic()</span><br><span class="line">    &#123;</span><br><span class="line">        m_iTest = <span class="number">0</span>;</span><br><span class="line">        s_pInstance = <span class="keyword">this</span>;   <span class="comment">// 构造函数初始化</span></span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">static</span> <span class="keyword">void</span> <span class="title">Print</span><span class="params">()</span></span></span><br><span class="line"><span class="function">    </span>&#123;</span><br><span class="line">        s_pInstance-&gt;m_iTest += <span class="number">1</span>;  <span class="comment">//</span></span><br><span class="line">        <span class="built_in">cout</span>&lt;&lt;s_pInstance-&gt;m_iTest&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">    &#125;</span><br><span class="line"><span class="keyword">private</span>:</span><br><span class="line">    <span class="keyword">int</span> m_iTest;</span><br><span class="line">    <span class="keyword">static</span> CStatic* s_pInstance;</span><br><span class="line">&#125;;</span><br><span class="line">CStatic* CStatic::s_pInstance = <span class="literal">NULL</span> ;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">(<span class="keyword">int</span> argc, <span class="keyword">char</span>* argv[])</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    CStatic cs;   <span class="comment">// 已加载到内存，构造函数中有参数this进行初始化（相当于c语言先定义变量，再调用函数）</span></span><br><span class="line">    cs.Print();</span><br><span class="line">    CStatic cs1;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;　　一般使用情况下，类静态成员函数调用静态成员变量，不能调用非静态变量，否则编译器会出错。因为非静态成员属于类对象，只有在类对象的实例创建时，才会分配内存，然后通过对象进行访问；而静态成员属于整个类，不需要类对象的创建，此时使用静态成员访问非静态成员好比访问内存中不存在的东西。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="c++" scheme="http://baiweiguo.github.io/categories/c/"/>
+    
+    
+      <category term="c++" scheme="http://baiweiguo.github.io/tags/c/"/>
+    
+      <category term="static" scheme="http://baiweiguo.github.io/tags/static/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DNS 解析</title>
+    <link href="http://baiweiguo.github.io/2017/02/06/dns/"/>
+    <id>http://baiweiguo.github.io/2017/02/06/dns/</id>
+    <published>2017-02-06T13:35:15.000Z</published>
+    <updated>2018-12-14T12:22:59.201Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="DNS域名系统"><a href="#DNS域名系统" class="headerlink" title="DNS域名系统"></a>DNS域名系统</h2><p>　　DNS(Domain Name System，域名系统)，提供域名到IP的解析功能，可以采用<strong>静态域名解析</strong>方法，若解析不成功，再采用<strong>动态域名解析</strong>方法。使用静态域名解析表的方法，可以大大提高域名解析效率。<br><a id="more"></a></p><h3 id="静态域名查询"><a href="#静态域名查询" class="headerlink" title="静态域名查询"></a>静态域名查询</h3><ul><li>本机配置域名到ip的解析于/etc/hosts中，以 <em>ip domain</em> 的形式；<br><img src="/2017/02/06/dns/abc0000000000.png" alt="hosts"></li><li>通过查找本地的<a href="http://www.10tiao.com/html/357/201607/2247484055/1.html" target="_blank" rel="noopener">nscd</a>进程中缓存的: getent hosts baiweiguo.github.io。<br><img src="/2017/02/06/dns/abc0000000004.png" alt="resolv"><br><img src="/2017/02/06/dns/abc0000000005.png" alt="resolv"></li><li>静态配置dns服务器，配置于: /etc/resolv.conf中，形式为：<em>nameserver ip</em>。其中，ip为dns服务器ip；<br><img src="/2017/02/06/dns/abc0000000001.png" alt="resolv"><h3 id="动态域名查询"><a href="#动态域名查询" class="headerlink" title="动态域名查询"></a>动态域名查询</h3>　　如果静态域名查询方式未查询到数据，客户端则会广播本机局域网，若局域网有<a href="http://baike.baidu.com/link?url=VFFbr-wynK1El3cj3OOjc77_I9kUXYbFkbxNClcF_SE8PR3eNA8DeXnwfgpbDu2hJu7AzUXIh_bRGJ8miM72C_" target="_blank" rel="noopener">DHCP</a>(动态主机配置协议)服务器时，才会响应给客户端dns ip：<br><img src="/2017/02/06/dns/abc0000000002.png" alt=""><br>若<a href="https://www.zhihu.com/question/48085305/answer/109256904" target="_blank" rel="noopener">本地DNS服务器</a>未解析成功，则会向dns服务器进行查询：<br><a href="http://369369.blog.51cto.com/319630/812889/" target="_blank" rel="noopener"><img src="/2017/02/06/dns/abc0000000003.png" alt=""></a></li></ul><h2 id="DNS查询方式"><a href="#DNS查询方式" class="headerlink" title="DNS查询方式"></a>DNS查询方式</h2><p>　　分为递归查询与迭代查询<a href="http://blog.csdn.net/shanamaid/article/details/51758820" target="_blank" rel="noopener">点此参见</a>，<a href="https://zhidao.baidu.com/question/311381817.html" target="_blank" rel="noopener">区别</a>。</p><h2 id="浏览器域名解析"><a href="#浏览器域名解析" class="headerlink" title="浏览器域名解析"></a>浏览器域名解析</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;DNS域名系统&quot;&gt;&lt;a href=&quot;#DNS域名系统&quot; class=&quot;headerlink&quot; title=&quot;DNS域名系统&quot;&gt;&lt;/a&gt;DNS域名系统&lt;/h2&gt;&lt;p&gt;　　DNS(Domain Name System，域名系统)，提供域名到IP的解析功能，可以采用&lt;strong&gt;静态域名解析&lt;/strong&gt;方法，若解析不成功，再采用&lt;strong&gt;动态域名解析&lt;/strong&gt;方法。使用静态域名解析表的方法，可以大大提高域名解析效率。&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="network" scheme="http://baiweiguo.github.io/categories/network/"/>
+    
+    
+      <category term="dns" scheme="http://baiweiguo.github.io/tags/dns/"/>
+    
+      <category term="domain" scheme="http://baiweiguo.github.io/tags/domain/"/>
+    
+  </entry>
+  
+</feed>
